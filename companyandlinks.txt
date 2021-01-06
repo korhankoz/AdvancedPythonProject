@@ -1,0 +1,12 @@
+Nintendo,https://www.macrotrends.net/stocks/charts/NTDOY/nintendo/revenue
+Microsoft Game Studios,https://www.macrotrends.net/stocks/charts/MSFT/microsoft/revenue
+Take-Two Interactive,https://www.macrotrends.net/stocks/charts/TTWO/take-two-interactive-software/revenue 
+Activision,https://www.macrotrends.net/stocks/charts/ATVI/activision-blizzard/revenue
+Sony,https://www.macrotrends.net/stocks/charts/SNE/sony/revenue
+Ubisoft,https://www.macrotrends.net/stocks/charts/UBSFY/ubisoft-entertainment/revenue
+Electronic Arts,https://www.macrotrends.net/stocks/charts/EA/electronic-arts/revenue
+Square Enix,https://www.macrotrends.net/stocks/charts/SQNXF/square-enix-holdings/revenue 
+Capcom,https://www.macrotrends.net/stocks/charts/CCOEY/capcom/revenue
+Warner Bros. Interactive Entertainment,https://www.macrotrends.net/stocks/charts/T/at-t/revenue
+Disney Interactive Studios,https://www.macrotrends.net/stocks/charts/DIS/disney/revenue
+Konami Digital Entertainment,https://www.macrotrends.net/stocks/charts/KNMCY/konami/revenue
